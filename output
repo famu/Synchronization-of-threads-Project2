@@ -1,0 +1,82 @@
+[4]Speaker : arrives and waits for the show to start
+[9]Visitor-4:arrives Ellis Island and waits in the lobby.
+[9]Visitor-11:arrives Ellis Island and waits in the lobby.
+[9]Visitor-14:arrives Ellis Island and waits in the lobby.
+[9]Visitor-8:arrives Ellis Island and waits in the lobby.
+[9]Visitor-1:arrives Ellis Island and waits in the lobby.
+[9]Visitor-10:arrives Ellis Island and waits in the lobby.
+[9]Visitor-13:arrives Ellis Island and waits in the lobby.
+[9]Visitor-6:arrives Ellis Island and waits in the lobby.
+[9]Visitor-9:arrives Ellis Island and waits in the lobby.
+[9]Visitor-2:arrives Ellis Island and waits in the lobby.
+[9]Visitor-5:arrives Ellis Island and waits in the lobby.
+[9]Visitor-3:arrives Ellis Island and waits in the lobby.
+[9]Visitor-7:arrives Ellis Island and waits in the lobby.
+[9]Visitor-15:arrives Ellis Island and waits in the lobby.
+[9]Visitor-12:arrives Ellis Island and waits in the lobby.
+[1502]Clock: sets session 1 and notifies all visitors to enter the room.
+[1502]Visitor-4: got seat in 1st session.
+[1502]Visitor-11: got seat in 1st session.
+[1502]Visitor-14: got seat in 1st session.
+[1503]Visitor-8: got seat in 1st session.
+[1503]Visitor-1: got seat in 1st session.
+[1503]Visitor-10: got seat in 1st session.
+[1503]Visitor-13: couldn't get seat and waits for the 2nd movie session.
+[1503]Visitor-9: couldn't get seat and waits for the 2nd movie session.
+[1503]Visitor-6: couldn't get seat and waits for the 2nd movie session.
+[1503]Visitor-12: couldn't get seat and waits for the 2nd movie session.
+[1503]Visitor-7: couldn't get seat and waits for the 2nd movie session.
+[1503]Visitor-15: couldn't get seat and waits for the 2nd movie session.
+[1503]Visitor-3: couldn't get seat and waits for the 2nd movie session.
+[1503]Visitor-2: couldn't get seat and waits for the 2nd movie session.
+[1503]Visitor-5: couldn't get seat and waits for the 2nd movie session.
+[3502]Speaker : starts presentation before 1st movie session.
+[4502]Speaker : ends 1st presentation and lets visitors watch movie.
+[6502]Clock: ends session one, announces break and notifies visitors to proceed visiting the Museum.
+[6502]Visitor-4: proceed to visit the Museum after attending 1st movie session.
+[6502]Visitor-10: proceed to visit the Museum after attending 1st movie session.
+[6502]Visitor-1: proceed to visit the Museum after attending 1st movie session.
+[6503]Visitor-14: proceed to visit the Museum after attending 1st movie session.
+[6503]Visitor-8: proceed to visit the Museum after attending 1st movie session.
+[6503]Visitor-11: proceed to visit the Museum after attending 1st movie session.
+[7502]Clock: sets session 2 and notifies all remaining visitors to enter the room.
+[7502]Visitor-13: got seat in 2nd session.
+[7502]Visitor-9: got seat in 2nd session.
+[7502]Visitor-12: got seat in 2nd session.
+[7502]Visitor-3: couldn't get seat in 2nd movie session.
+[7502]Visitor-6: got seat in 2nd session.
+[7502]Visitor-2: couldn't get seat in 2nd movie session.
+[7502]Visitor-5: couldn't get seat in 2nd movie session.
+[7502]Visitor-15: got seat in 2nd session.
+[7502]Visitor-7: got seat in 2nd session.
+[9502]Speaker : lets the remaining visitors know that there's no movie sessions any more so proceed to visit the Museum.
+[9502]Speaker : starts presentation before 2nd movie session.
+[9502]Visitor-3: goes to Museum without attending any movie session.
+[9502]Visitor-2: goes to Museum without attending any movie session.
+[9502]Visitor-5: goes to Museum without attending any movie session.
+[10502]Speaker : ends 2nd presentation and watches movie with visitors.
+[12502]Clock: ends session 2 and and notifies visitors to proceed visiting.
+[12502]Visitor-9: proceed to visit the Museum after attending 2nd movie session.
+[12502]Visitor-15: proceed to visit the Museum after attending 2nd movie session.
+[12502]Visitor-13: proceed to visit the Museum after attending 2nd movie session.
+[12502]Visitor-6: proceed to visit the Museum after attending 2nd movie session.
+[12503]Visitor-7: proceed to visit the Museum after attending 2nd movie session.
+[12503]Visitor-12: proceed to visit the Museum after attending 2nd movie session.
+[15502]Clock: signals the end of the day.
+[15502]Visitor-4: forms group 1
+[15502]Visitor-10: forms group 1
+[15502]Visitor-1: forms group 1
+[15503]Visitor-14: forms group 1
+[15503]Visitor-8: forms group 1 and leave
+[15503]Visitor-11: forms group 2
+[15503]Visitor-3: forms group 2
+[15503]Visitor-2: forms group 2
+[15504]Visitor-5: forms group 2
+[15504]Speaker : leaves the Museum.
+[15504]Visitor-9: forms group 2 and leave
+[15504]Visitor-15: forms group 3
+[15504]Visitor-13: forms group 3
+[15505]Visitor-6: forms group 3
+[15505]Visitor-7: forms group 3
+[15505]Visitor-12: forms group 3 and leave
+[19503]Clock: Museum closed.
